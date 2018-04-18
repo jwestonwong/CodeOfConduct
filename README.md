@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A primary goal of [“Game Workers Unite”](https://www.gameworkersunite.org/) (GWU) is to  empower people who are marginalized, oppressed, and exploited by the game industry, providing them with the tools and resources to improve their working conditions, push back against systems of oppression, and build a more equitable industry for everyone. We aim to stand in concrete solidarity with oppressed people around the world, and specifically to advance the interests of workers in the struggle against global capitalism. 
+A primary goal of [“Game Workers Unite - Toronto Local”](https://www.gameworkersunite.org/) (GWU-Toronto) is to  empower people who are marginalized, oppressed, and exploited by the game industry, providing them with the tools and resources to improve their working conditions, push back against systems of oppression, and build a more equitable industry for everyone. We aim to stand in concrete solidarity with oppressed people around the world, and specifically to advance the interests of workers in the struggle against global capitalism. 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 We invite all those who participate in GWU activities to help us create safe and positive experiences for everyone.
@@ -41,7 +41,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 ## Weapons Policy
 
-No weapons will be allowed at GWU events or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others.
+No weapons will be allowed at GWU Toronto events or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others.
 
 Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Attendees are further expected to comply with all state and local laws on this matter.
 
@@ -55,7 +55,7 @@ If a community member engages in unacceptable behavior, we may take any action d
 
 ## Reporting
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing gameworkersunite@gmail.com. 
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing gwutoronto@gmail.com. 
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -67,12 +67,10 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## Contact Information
 
-gameworkersunite@gmail.com 
+gwutoronto@gmail.com 
 
 If you are on the Discord server, you can also message the moderators:
-- @Maris
-- @seekayeffjay
-- @EmmaKinema
+- @Yitzki
 
 ## Licence
 
